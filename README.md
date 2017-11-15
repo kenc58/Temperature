@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/kenc58/Temperature.svg?branch=master)](https://travis-ci.org/kenc58/Temperature)
